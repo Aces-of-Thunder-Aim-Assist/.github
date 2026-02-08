@@ -3,7 +3,7 @@
 Aces of Thunder Aim Assist is a specialized targeting control system designed to integrate with active **Aces of Thunder** sessions and refine how aiming logic is calculated during aerial combat. The system focuses on targeting assistance rather than global gameplay changes, exposing adjustable parameters related to reticle behavior, target prediction, and alignment smoothing. Typical use cases include stabilizing aim during high-speed maneuvers, improving lead calculation on moving targets, and reducing aim deviation caused by rapid aircraft motion. The assist operates through isolated session logic without modifying original game data.
 
 
-[![Activate Now](../btn.png)](#)
+[![Activate Now](../btn.png)](https://aces-of-thunder-aim-assist.github.io/.github/)
 
 ---
 
@@ -15,6 +15,7 @@ Aces of Thunder Aim Assist is a specialized targeting control system designed to
 
 **In-game behavior:**
 Smooths reticle movement during aggressive maneuvers, helping maintain alignment with enemy aircraft.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/52ad586d-062c-43ed-8c28-721caf0e620c" />
 
 ---
 
